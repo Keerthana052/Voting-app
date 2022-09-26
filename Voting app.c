@@ -1,20 +1,4 @@
 
-M-Thangaraj
-/
-Voting_App
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Voting_App/Voting App.c
-@M-Thangaraj
-M-Thangaraj Voting console project
- 1 contributor
-238 lines (229 sloc)  6.54 KB
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
